@@ -4,7 +4,7 @@ An implementation similar to that of Pastebin and other text storage websites, u
 
 ## Preview
 
-![Desktop Preview](images/paste-bin.gif "Desktop GIF")
+
 
 
 ##Tasks Done & Pending
@@ -13,6 +13,10 @@ created the paste bin api using Nodejs and MongoDb where we can create,show,edit
 
 
 Frontend integration of any user using redux , Edit option in frontend is pending
+
+Here is the Video representation of pastebin app:
+https://user-images.githubusercontent.com/57430805/154622164-24166e7e-cf0c-4496-ae25-49c6097465fe.mp4
+
 
 
 ## Available Scripts
